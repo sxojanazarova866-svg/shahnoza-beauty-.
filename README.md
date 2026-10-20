@@ -1,5 +1,5 @@
 # shahnoza-beauty- makeup doʻkoni
-kasmetikalar har xil turdagi
+kasmetikalar har xil turdagi.
 <!DOCTYPE html>
 <html lang="uz">
 <head>
